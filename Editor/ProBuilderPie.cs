@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEditor.ProBuilder;
 using UnityEditor;
 using UnityEngine.ProBuilder;
+using BennyKok.Pie.Editor;
 
 #if UNITY_2020_2_OR_NEWER
 using ToolManager = UnityEditor.EditorTools.ToolManager;
