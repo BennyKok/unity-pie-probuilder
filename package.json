@@ -1,0 +1,14 @@
+{
+    "name": "com.bennykok.pie.pb",
+    "displayName": "ProBuilder Pie",
+    "version": "0.1.0",
+    "description": "Some Pie for ProBuilder",
+    "unity": "2019.4",
+    "dependencies": {
+        "com.unity.probuilder": "4.2.3"
+    },
+    "author": {
+        "name": "BennyKok",
+        "url": "https://github.com/BennyKok"
+    }
+}

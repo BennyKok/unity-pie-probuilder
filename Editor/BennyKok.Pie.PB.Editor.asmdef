@@ -1,0 +1,20 @@
+{
+    "name": "BennyKok.Pie.PB.Editor",
+    "rootNamespace": "BennyKok.Pie.PB.Editor",
+    "references": [
+        "GUID:03ca3ee4acaf74592bc6d299ca86aa27",
+        "GUID:1826c0224c0d048b88112c79bbb0cd85",
+        "GUID:4adb83fc177eb6048aec50835dc41f93"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
