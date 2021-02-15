@@ -5,7 +5,7 @@ This pacakge has ProBuilder specific pie shortcut
 ### A
 ## Press A for the Pie
 
-![Imgur](https://i.imgur.com/ICQQTZI.gif)
+![Imgur](https://i.imgur.com/J2maHmf.gif)
 
 Require unity-pie package
 
