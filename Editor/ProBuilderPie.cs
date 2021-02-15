@@ -54,5 +54,10 @@ namespace BennyKok.Pie.PB.Editor
             EditorWindow.focusedWindow.SendEvent(e);
         }
 
+        [PieMenu(path = "New PolyShape")]
+        public static void PolyShape()
+        {
+            EditorApplication.ExecuteMenuItem("Tools/ProBuilder/Editors/New Poly Shape");
+        }
     }
 }
